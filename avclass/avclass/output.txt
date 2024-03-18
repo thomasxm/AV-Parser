@@ -1,0 +1,2 @@
+	42	FILE:os:windows|13,UNK:scarecrow|4,UNK:goshell|4,UNK:wingo|2,UNK:shellcoderunner|2,FAM:sabsik|2,FAM:redcap|2,UNK:marte|2
+	41	FILE:os:windows|11,UNK:goshell|5,UNK:shellcoderunner|3,UNK:scarecrow|3,UNK:wingo|2,FAM:redcap|2,UNK:marte|2
